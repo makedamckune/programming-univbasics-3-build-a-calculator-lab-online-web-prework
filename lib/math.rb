@@ -2,7 +2,7 @@ def addition(5,4)
   puts (num1 + num2)
 end
 
-def subtraction(num1, num2)
+def subtraction(10,5)
   puts (num1 - num2)
 end
 
