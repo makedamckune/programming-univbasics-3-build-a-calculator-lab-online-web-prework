@@ -6,7 +6,7 @@ def subtraction(10,5)
   puts (num1 - num2)
 end
 
-def division(num1, num2)
+def division(50,2)
   puts (num1 / num2)
 end
 
