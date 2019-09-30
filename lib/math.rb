@@ -10,7 +10,7 @@ def division(50,2)
   puts (num1 / num2)
 end
 
-def multiplication(num1, num2)
+def multiplication(4,30)
   puts (num1 * num2)
 end
 
