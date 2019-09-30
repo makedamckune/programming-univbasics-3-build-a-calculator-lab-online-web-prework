@@ -14,10 +14,10 @@ def multiplication(4,30)
   puts (num1 * num2)
 end
 
-def modulo(num1, num2)
+def modulo(34,5)
   puts (num1 % num2)
 end
 
 def square_root(num)
-  put (num1 Math.sqrt num2)
+  put ( Math.sqrt(num))
 end
